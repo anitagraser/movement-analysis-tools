@@ -9,6 +9,7 @@ A collection of projects in the upcoming field of movement data science (ordered
 - [MovingPandas](https://github.com/anitagraser/movingpandas): Trajectory classes and functions built on top of GeoPandas. (first GH commit: 2018-12-16)
 - [Traja](https://github.com/traja-team/traja): Python tools for 2D spatial trajectory data. (first GH commit: 2019-01-13)
 - [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility): Mobility analysis in Python. (first GH commit: 2019-04-28)
+- [MovinPy](https://github.com/DataStories-UniPi/MovinPy): Process and analyze mobility data. (first GH commit: 2020-07-23)
 
 ## C++ 
 
