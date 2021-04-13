@@ -1,6 +1,9 @@
 # Tools for the analysis of movement data
 
-A collection of open source projects in the upcoming field of movement data science (ordered by main language and first GitHub commit date).
+A collection of open source projects in the upcoming field of **movement data science** (ordered by main language and first GitHub commit date).
+
+**Note**: this repository only tracks projects related to movement data science. A general survey of spatiotemporal tools is provided by [Alam et al. 2021].
+
 
 
 ## Python
@@ -28,20 +31,14 @@ A collection of open source projects in the upcoming field of movement data scie
 
 ## Distributed computing 
 
-There are multiple projects dealing with spatiotemporal data, including: [GeoMesa](https://www.geomesa.org), [GeoWave](https://locationtech.github.io/geowave/), [STARK](https://github.com/dbis-ilm/stark). However, none have so far provide dedicted tools for trajectories.
-
 - [Apache Sedona](https://sedona.apache.org) (formerly known as GeoSpark) has announced plans to provide trajectory support at ApacheCon 2020.
 
 Other libraries, that are cited in the literature but are not available as open source, include: TrajSpark [Zhang et al. 2017], DITA [Shang et al. 2018]
 
----
-
-**Note**: this repository only tracks projects related to movement data science. That is, tools dealing with both spatial and temporal components. 
-
----
 
 ## References
 
+- Alam, M. M., Torgo, L., & Bifet, A. (2021). A Survey on Spatio-temporal Data Analytics Systems. arXiv preprint arXiv:2103.09883. https://arxiv.org/abs/2103.09883
 - Graser, A. (2019). MovingPandas: Efficient Structures for Movement Data in Python. GI_Forum ‒ Journal of Geographic Information Science 2019, 1-2019, 54-68. https://doi.org/10.1553/giscience2019_01_s54.
 - Joo, R., Boone, M. E., Clay, T. A., Patrick, S. C., Clusella‐Trullas, S., & Basille, M. (2020). Navigating through the **R packages** for movement. Journal of Animal Ecology, 89(1), 248-267. https://doi.org/10.1111/1365-2656.13116
 - Pappalardo, L., Simini, F., Barlacchi, G., & Pellungrini, R. (2019). scikit-mobility: A Python library for the analysis, generation and risk assessment of mobility data. arXiv preprint arXiv:1907.07062. https://arxiv.org/abs/1907.07062
