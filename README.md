@@ -11,6 +11,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [PyMove](https://github.com/InsightLab/PyMove): Python library to simplify queries and visualization of trajectories and other spatial-temporal data. (first GH commit: 2018-09-09)
 - [MovingPandas](https://github.com/anitagraser/movingpandas): Trajectory classes and functions built on top of GeoPandas. (first GH commit: 2018-12-16) [Graser 2019]
 - [Traja](https://github.com/traja-team/traja): Python tools for 2D spatial trajectory data. (first GH commit: 2019-01-13)
+- [trackintel](https://github.com/mie-lab/trackintel): a framework for spatio-temporal analysis of movement trajectory and mobility data. (first GH commit: 2019-01-20)
 - [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility): Mobility analysis in Python. (first GH commit: 2019-04-28) [Pappalardo et al. 2019]
 - [MovinPy](https://github.com/DataStories-UniPi/MovinPy): Process and analyze mobility data. (first GH commit: 2020-07-23)
 - [HuMobi](https://github.com/SmolakK/HuMobi): a library for human mobility analyses implemented in Python. (first GH commit: 2021-06-02)
