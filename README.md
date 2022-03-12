@@ -26,7 +26,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 
 ## R
 
-**Review paper:** Joo, R., Boone, M. E., Clay, T. A., Patrick, S. C., Clusella‐Trullas, S., & Basille, M. (2020). Navigating through the **R packages** for movement. Journal of Animal Ecology, 89(1), 248-267.
+**Review paper:** [Joo, R., Boone, M. E., Clay, T. A., Patrick, S. C., Clusella‐Trullas, S., & Basille, M. (2020). Navigating through the **R packages** for movement. Journal of Animal Ecology, 89(1), 248-267.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13116)
 
 ## Databases
 - [MobilityDB](https://github.com/MobilityDB/MobilityDB): A geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS. (first GH commit: 2019-02-17)
