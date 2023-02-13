@@ -8,6 +8,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 
 ## Python
 
+- [traffic](https://github.com/xoolive/traffic): A toolbox for processing and analysing air traffic data. (first GH commit: 2018-02-08)
 - [PyMove](https://github.com/InsightLab/PyMove): Python library to simplify queries and visualization of trajectories and other spatial-temporal data. (first GH commit: 2018-09-09)
 - [MovingPandas](https://github.com/anitagraser/movingpandas): Trajectory classes and functions built on top of GeoPandas. (first GH commit: 2018-12-16) [Graser 2019]
 - [Traja](https://github.com/traja-team/traja): Python tools for 2D spatial trajectory data. (first GH commit: 2019-01-13)
