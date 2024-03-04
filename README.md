@@ -39,6 +39,10 @@ A collection of open source projects in the upcoming field of **movement data sc
     - [mobilitydb-python](https://github.com/MobilityDB/MobilityDB-python/): Python driver for MobilityDB.
     - [mobilitydb-sqlalchemy](https://github.com/adonmo/mobilitydb-sqlalchemy): MobilityDB extensions for SQLAlchemy.
 
+## Platforms
+
+- [MoveApps](https://www.moveapps.org): free analysis platform for animal tracking data hosted by the Max Planck Institute of Animal Behavior
+
 ## Distributed computing 
 
 - [Apache Sedona](https://sedona.apache.org) (formerly known as GeoSpark) has announced plans to provide trajectory support at ApacheCon 2020.
