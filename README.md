@@ -20,7 +20,10 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31)
 - [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17)
 
-[![star-history-202354](https://user-images.githubusercontent.com/590385/236323338-fd777bd3-a48c-43e2-a2c0-bca4c1d3d9ab.png)](https://star-history.com/#movingpandas/movingpandas&scikit-mobility/scikit-mobility&InsightLab/PyMove&traja-team/traja&mie-lab/trackintel&DataStories-UniPi/MovinPy&MobilityDB/MobilityDB&Date)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=movingpandas/movingpandas,scikit-mobility/scikit-mobility,InsightLab/PyMove,traja-team/traja,mie-lab/trackintel,DataStories-UniPi/MovinPy,MobilityDB/MobilityDB&type=Date)](https://star-history.com/#movingpandas/movingpandas&scikit-mobility/scikit-mobility&InsightLab/PyMove&traja-team/traja&mie-lab/trackintel&DataStories-UniPi/MovinPy&MobilityDB/MobilityDB&Date)
+
+
 
 ## C++ 
 
