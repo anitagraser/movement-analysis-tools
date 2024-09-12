@@ -49,6 +49,10 @@ A collection of open source projects in the upcoming field of **movement data sc
 
 Other libraries, that are cited in the literature but are not available as open source, include: TrajSpark [Zhang et al. 2017], DITA [Shang et al. 2018]
 
+## Standards
+
+https://www.ogc.org/standard/movingfeatures/
+
 
 ## References
 
