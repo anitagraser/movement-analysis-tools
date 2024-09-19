@@ -19,7 +19,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [HuMobi](https://github.com/SmolakK/HuMobi): a library for human mobility analyses implemented in Python. (first GH commit: 2021-06-02)
 - [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31)
 - [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17)
-
+- [Mobilkit](https://github.com/mindearth/mobilkit): A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data (first GH commit: 2021-07-25)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=movingpandas/movingpandas,scikit-mobility/scikit-mobility,InsightLab/PyMove,traja-team/traja,mie-lab/trackintel,MobilityDB/MobilityDB,ni1o1/transbigdata,xoolive/traffic&type=Date)](https://star-history.com/#movingpandas/movingpandas&scikit-mobility/scikit-mobility&InsightLab/PyMove&traja-team/traja&mie-lab/trackintel&MobilityDB/MobilityDB&ni1o1/transbigdata&xoolive/traffic&Date)
 
@@ -33,6 +33,8 @@ A collection of open source projects in the upcoming field of **movement data sc
 ## R
 
 **Review paper:** [Joo, R., Boone, M. E., Clay, T. A., Patrick, S. C., Clusella‐Trullas, S., & Basille, M. (2020). Navigating through the **R packages** for movement. Journal of Animal Ecology, 89(1), 248-267.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13116)
+
+- [moveVis](https://movevis.org) provides tools to visualize movement data (e.g. from GPS tracking) and temporal changes of environmental data (e.g. from remote sensing) by creating video animations. It works with move and raster class inputs and turns them into ggplot2 frames
 
 ## Databases
 - [MobilityDB](https://github.com/MobilityDB/MobilityDB): A geospatial trajectory data management & analysis platform, built on PostgreSQL and PostGIS. (first GH commit: 2019-02-17)
@@ -63,3 +65,4 @@ https://www.ogc.org/standard/movingfeatures/
 - Pappalardo, L., Simini, F., Barlacchi, G., & Pellungrini, R. (2019). scikit-mobility: A Python library for the analysis, generation and risk assessment of mobility data. arXiv preprint arXiv:1907.07062. https://arxiv.org/abs/1907.07062
 - Shang, Z., Li, G., & Bao, Z. (2018). DITA: Distributed In-Memory Trajectory Analytics. In SIGMOD/PODS 18: 2018 International Conference on Management of Data. ACM. https://doi.org/10.1145/3183713.3183743
 - Zhang, Z., Jin, C., Mao, J., Yang, X., & Zhou, A. (2017). TrajSpark: A Scalable and Efficient In-Memory Management System for Big Trajectory Data. In Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint Conference on Web and Big Data (pp. 11-26). Springer, Cham. https://doi.org/10.1007/978-3-319-63579-8_2
+- Ubaldi, E., Yabe, T., Jones, N., Khan, M.F., Feliciotti, A., Di Clemente, R., Ukkusuri, S.V., & Strano, E. (2024) Mobilkit: A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data, Journal of Open Source Software, 9, 95, 5201. Doi: 10.21105/joss.05201
