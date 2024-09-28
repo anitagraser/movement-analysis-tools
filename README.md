@@ -8,7 +8,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 
 ## Python
 
-- [Stone Soup](https://github.com/dstl/Stone-Soup): A software project to provide the target tracking community with a framework for the development and testing of tracking algorithms. (first GH commit: 2017-07-23)
+- [Stone Soup](https://github.com/dstl/Stone-Soup): A software project to provide the target tracking community with a framework for the development and testing of tracking algorithms. (first GH commit: 2017-07-23) [Hiscocks et al. 2023]
 - [traffic](https://github.com/xoolive/traffic): A toolbox for processing and analysing air traffic data. (first GH commit: 2018-02-08)
 - [PyMove](https://github.com/InsightLab/PyMove): Python library to simplify queries and visualization of trajectories and other spatial-temporal data. (first GH commit: 2018-09-09)
 - [MovingPandas](https://github.com/anitagraser/movingpandas): Trajectory classes and functions built on top of GeoPandas. (first GH commit: 2018-12-16) [Graser 2019]
@@ -20,7 +20,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [HuMobi](https://github.com/SmolakK/HuMobi): a library for human mobility analyses implemented in Python. (first GH commit: 2021-06-02)
 - [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31)
 - [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17)
-- [Mobilkit](https://github.com/mindearth/mobilkit): A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data. (first GH commit: 2021-07-25)
+- [Mobilkit](https://github.com/mindearth/mobilkit): A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data. (first GH commit: 2021-07-25) [Ubaldi et al. 2024]
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=movingpandas/movingpandas,scikit-mobility/scikit-mobility,InsightLab/PyMove,traja-team/traja,mie-lab/trackintel,MobilityDB/MobilityDB,ni1o1/transbigdata,xoolive/traffic&type=Date)](https://star-history.com/#movingpandas/movingpandas&scikit-mobility/scikit-mobility&InsightLab/PyMove&traja-team/traja&mie-lab/trackintel&MobilityDB/MobilityDB&ni1o1/transbigdata&xoolive/traffic&Date)
@@ -62,9 +62,11 @@ https://www.ogc.org/standard/movingfeatures/
 
 - Alam, M. M., Torgo, L., & Bifet, A. (2021). A Survey on Spatio-temporal Data Analytics Systems. arXiv preprint arXiv:2103.09883. https://arxiv.org/abs/2103.09883
 - Graser, A. (2019). MovingPandas: Efficient Structures for Movement Data in Python. GI_Forum ‒ Journal of Geographic Information Science 2019, 1-2019, 54-68. https://doi.org/10.1553/giscience2019_01_s54.
+- Hiscocks, S., Barr, J., Perree, N., Wright, J., Pritchett, H., Rosoman, O., ... & Oakes, B. (2023). Stone Soup: No longer just an appetiser. In 2023 26th International Conference on Information Fusion (FUSION) (pp. 1-8). IEEE.
 - Joo, R., Boone, M. E., Clay, T. A., Patrick, S. C., Clusella‐Trullas, S., & Basille, M. (2020). Navigating through the **R packages** for movement. Journal of Animal Ecology, 89(1), 248-267. https://doi.org/10.1111/1365-2656.13116
 - Martin, H., Hong, Y., Wiedemann, N., Bucher, D., & Raubal, M. (2023). Trackintel: An open-source Python library for human mobility analysis. Computers, Environment and Urban Systems, 101, 101938. https://doi.org/10.1016/j.compenvurbsys.2023.101938
 - Pappalardo, L., Simini, F., Barlacchi, G., & Pellungrini, R. (2019). scikit-mobility: A Python library for the analysis, generation and risk assessment of mobility data. arXiv preprint arXiv:1907.07062. https://arxiv.org/abs/1907.07062
 - Shang, Z., Li, G., & Bao, Z. (2018). DITA: Distributed In-Memory Trajectory Analytics. In SIGMOD/PODS 18: 2018 International Conference on Management of Data. ACM. https://doi.org/10.1145/3183713.3183743
-- Zhang, Z., Jin, C., Mao, J., Yang, X., & Zhou, A. (2017). TrajSpark: A Scalable and Efficient In-Memory Management System for Big Trajectory Data. In Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint Conference on Web and Big Data (pp. 11-26). Springer, Cham. https://doi.org/10.1007/978-3-319-63579-8_2
 - Ubaldi, E., Yabe, T., Jones, N., Khan, M.F., Feliciotti, A., Di Clemente, R., Ukkusuri, S.V., & Strano, E. (2024) Mobilkit: A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data, Journal of Open Source Software, 9, 95, 5201. Doi: 10.21105/joss.05201
+- Zhang, Z., Jin, C., Mao, J., Yang, X., & Zhou, A. (2017). TrajSpark: A Scalable and Efficient In-Memory Management System for Big Trajectory Data. In Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint Conference on Web and Big Data (pp. 11-26). Springer, Cham. https://doi.org/10.1007/978-3-319-63579-8_2
+
