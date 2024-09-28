@@ -8,6 +8,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 
 ## Python
 
+- [Stone Soup](https://github.com/dstl/Stone-Soup): A software project to provide the target tracking community with a framework for the development and testing of tracking algorithms. (first GH commit: 2017-07-23)
 - [traffic](https://github.com/xoolive/traffic): A toolbox for processing and analysing air traffic data. (first GH commit: 2018-02-08)
 - [PyMove](https://github.com/InsightLab/PyMove): Python library to simplify queries and visualization of trajectories and other spatial-temporal data. (first GH commit: 2018-09-09)
 - [MovingPandas](https://github.com/anitagraser/movingpandas): Trajectory classes and functions built on top of GeoPandas. (first GH commit: 2018-12-16) [Graser 2019]
@@ -20,6 +21,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31)
 - [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17)
 - [Mobilkit](https://github.com/mindearth/mobilkit): A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data. (first GH commit: 2021-07-25)
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=movingpandas/movingpandas,scikit-mobility/scikit-mobility,InsightLab/PyMove,traja-team/traja,mie-lab/trackintel,MobilityDB/MobilityDB,ni1o1/transbigdata,xoolive/traffic&type=Date)](https://star-history.com/#movingpandas/movingpandas&scikit-mobility/scikit-mobility&InsightLab/PyMove&traja-team/traja&mie-lab/trackintel&MobilityDB/MobilityDB&ni1o1/transbigdata&xoolive/traffic&Date)
 
