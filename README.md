@@ -19,7 +19,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [ST-Visions](https://github.com/DataStories-UniPi/ST-Visions): A Python-based library for interactive spatio-temporal data visualization. (first GH commit: 2020-07-26)
 - [HuMobi](https://github.com/SmolakK/HuMobi): a library for human mobility analyses implemented in Python. (first GH commit: 2021-06-02) [Smolak et al. 2021]
 - [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31) [Haidri et al. 2022]
-- [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17)
+- [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17) [Yu & Yuan 2022]
 - [Mobilkit](https://github.com/mindearth/mobilkit): A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data. (first GH commit: 2021-07-25) [Ubaldi et al. 2024]
 
 
@@ -70,5 +70,6 @@ https://www.ogc.org/standard/movingfeatures/
 - Shang, Z., Li, G., & Bao, Z. (2018). DITA: Distributed In-Memory Trajectory Analytics. In SIGMOD/PODS 18: 2018 International Conference on Management of Data. ACM. https://doi.org/10.1145/3183713.3183743
 - Smolak, K., Siła-Nowicka, K., Delvenne, J. C., Wierzbiński, M., & Rohm, W. (2021). The impact of human mobility data scales and processing on movement predictability. Scientific Reports, 11(1), 1-10.
 - Ubaldi, E., Yabe, T., Jones, N., Khan, M.F., Feliciotti, A., Di Clemente, R., Ukkusuri, S.V., & Strano, E. (2024) Mobilkit: A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data, Journal of Open Source Software, 9, 95, 5201. Doi: 10.21105/joss.05201
+- Yu, Q., & Yuan, J. (2022). TransBigData: A Python package for transportation spatio-temporal big data processing, analysis and visualization. Journal of Open Source Software, 7(71), 4021.
 - Zhang, Z., Jin, C., Mao, J., Yang, X., & Zhou, A. (2017). TrajSpark: A Scalable and Efficient In-Memory Management System for Big Trajectory Data. In Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint Conference on Web and Big Data (pp. 11-26). Springer, Cham. https://doi.org/10.1007/978-3-319-63579-8_2
 
