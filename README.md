@@ -18,7 +18,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [MovinPy](https://github.com/DataStories-UniPi/MovinPy): Process and analyze mobility data. (first GH commit: 2020-07-23)
 - [ST-Visions](https://github.com/DataStories-UniPi/ST-Visions): A Python-based library for interactive spatio-temporal data visualization. (first GH commit: 2020-07-26)
 - [HuMobi](https://github.com/SmolakK/HuMobi): a library for human mobility analyses implemented in Python. (first GH commit: 2021-06-02) [Smolak et al. 2021]
-- [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31)
+- [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31) [Haidri et al. 2022]
 - [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17)
 - [Mobilkit](https://github.com/mindearth/mobilkit): A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data. (first GH commit: 2021-07-25) [Ubaldi et al. 2024]
 
@@ -62,6 +62,7 @@ https://www.ogc.org/standard/movingfeatures/
 
 - Alam, M. M., Torgo, L., & Bifet, A. (2021). A Survey on Spatio-temporal Data Analytics Systems. arXiv preprint arXiv:2103.09883. https://arxiv.org/abs/2103.09883
 - Graser, A. (2019). MovingPandas: Efficient Structures for Movement Data in Python. GI_Forum ‒ Journal of Geographic Information Science 2019, 1-2019, 54-68. https://doi.org/10.1553/giscience2019_01_s54.
+- Haidri, S., Haranwala, Y. J., Bogorny, V., Renso, C., da Fonseca, V. P., & Soares, A. (2022). PTRAIL—A python package for parallel trajectory data preprocessing. SoftwareX, 19, 101176.
 - Hiscocks, S., Barr, J., Perree, N., Wright, J., Pritchett, H., Rosoman, O., ... & Oakes, B. (2023). Stone Soup: No longer just an appetiser. In 2023 26th International Conference on Information Fusion (FUSION) (pp. 1-8). IEEE.
 - Joo, R., Boone, M. E., Clay, T. A., Patrick, S. C., Clusella‐Trullas, S., & Basille, M. (2020). Navigating through the **R packages** for movement. Journal of Animal Ecology, 89(1), 248-267. https://doi.org/10.1111/1365-2656.13116
 - Martin, H., Hong, Y., Wiedemann, N., Bucher, D., & Raubal, M. (2023). Trackintel: An open-source Python library for human mobility analysis. Computers, Environment and Urban Systems, 101, 101938. https://doi.org/10.1016/j.compenvurbsys.2023.101938
