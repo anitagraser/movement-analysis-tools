@@ -10,7 +10,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 
 - [Stone Soup](https://github.com/dstl/Stone-Soup): A software project to provide the target tracking community with a framework for the development and testing of tracking algorithms. (first GH commit: 2017-07-23) [Hiscocks et al. 2023]
 - [traffic](https://github.com/xoolive/traffic): A toolbox for processing and analysing air traffic data. (first GH commit: 2018-02-08)
-- [PyMove](https://github.com/InsightLab/PyMove): Python library to simplify queries and visualization of trajectories and other spatial-temporal data. (first GH commit: 2018-09-09)
+- [PyMove](https://github.com/InsightLab/PyMove): Python library to simplify queries and visualization of trajectories and other spatial-temporal data. (first GH commit: 2018-09-09) [Sanches 2019],[Oliveira 2019]
 - [MovingPandas](https://github.com/anitagraser/movingpandas): Trajectory classes and functions built on top of GeoPandas. (first GH commit: 2018-12-16) [Graser 2019]
 - [Traja](https://github.com/traja-team/traja): Python tools for 2D spatial trajectory data. (first GH commit: 2019-01-13)
 - [trackintel](https://github.com/mie-lab/trackintel): a framework for spatio-temporal analysis of movement trajectory and mobility data. (first GH commit: 2019-01-20) [Martin 2023]
@@ -66,7 +66,9 @@ https://www.ogc.org/standard/movingfeatures/
 - Hiscocks, S., Barr, J., Perree, N., Wright, J., Pritchett, H., Rosoman, O., ... & Oakes, B. (2023). Stone Soup: No longer just an appetiser. In 2023 26th International Conference on Information Fusion (FUSION) (pp. 1-8). IEEE.
 - Joo, R., Boone, M. E., Clay, T. A., Patrick, S. C., Clusella‐Trullas, S., & Basille, M. (2020). Navigating through the **R packages** for movement. Journal of Animal Ecology, 89(1), 248-267. https://doi.org/10.1111/1365-2656.13116
 - Martin, H., Hong, Y., Wiedemann, N., Bucher, D., & Raubal, M. (2023). Trackintel: An open-source Python library for human mobility analysis. Computers, Environment and Urban Systems, 101, 101938. https://doi.org/10.1016/j.compenvurbsys.2023.101938
+- Oliveira, A. F. D. (2019). Uma arquitetura e implementação do módulo de visualização para biblioteca PyMove.
 - Pappalardo, L., Simini, F., Barlacchi, G., & Pellungrini, R. (2019). scikit-mobility: A Python library for the analysis, generation and risk assessment of mobility data. arXiv preprint arXiv:1907.07062. https://arxiv.org/abs/1907.07062
+- Sanches, A. D. J. A. M. (2019). Uma arquitetura e implementação do módulo de pré-processamento para biblioteca pymove.
 - Shang, Z., Li, G., & Bao, Z. (2018). DITA: Distributed In-Memory Trajectory Analytics. In SIGMOD/PODS 18: 2018 International Conference on Management of Data. ACM. https://doi.org/10.1145/3183713.3183743
 - Smolak, K., Siła-Nowicka, K., Delvenne, J. C., Wierzbiński, M., & Rohm, W. (2021). The impact of human mobility data scales and processing on movement predictability. Scientific Reports, 11(1), 1-10.
 - Ubaldi, E., Yabe, T., Jones, N., Khan, M.F., Feliciotti, A., Di Clemente, R., Ukkusuri, S.V., & Strano, E. (2024) Mobilkit: A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data, Journal of Open Source Software, 9, 95, 5201. Doi: 10.21105/joss.05201
