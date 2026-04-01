@@ -21,6 +21,7 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31) [Haidri et al. 2022]
 - [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17) [Yu & Yuan 2022]
 - [Mobilkit](https://github.com/mindearth/mobilkit): A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data. (first GH commit: 2021-07-25) [Ubaldi et al. 2024]
+- [HoWDe](https://github.com/LLucchini/HoWDe): A package for detecting home and work locations from individual timestamped sequences of stop locations. (first GH commit: 2025-02-09) [De Sojo et al. 2025]
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=movingpandas/movingpandas,scikit-mobility/scikit-mobility,InsightLab/PyMove,traja-team/traja,mie-lab/trackintel,MobilityDB/MobilityDB,ni1o1/transbigdata,xoolive/traffic&type=Date)](https://star-history.com/#movingpandas/movingpandas&scikit-mobility/scikit-mobility&InsightLab/PyMove&traja-team/traja&mie-lab/trackintel&MobilityDB/MobilityDB&ni1o1/transbigdata&xoolive/traffic&Date)
@@ -61,6 +62,7 @@ https://www.ogc.org/standard/movingfeatures/
 ## References
 
 - Alam, M. M., Torgo, L., & Bifet, A. (2021). A Survey on Spatio-temporal Data Analytics Systems. arXiv preprint arXiv:2103.09883. https://arxiv.org/abs/2103.09883
+- De Sojo et al. (2025). HoWDe: a validated algorithm for Home and Work location Detection. arXiv preprint arXiv:2506.20679. https://arxiv.org/abs/2506.20679v2
 - Graser, A. (2019). MovingPandas: Efficient Structures for Movement Data in Python. GI_Forum ‒ Journal of Geographic Information Science 2019, 1-2019, 54-68. https://doi.org/10.1553/giscience2019_01_s54.
 - Haidri, S., Haranwala, Y. J., Bogorny, V., Renso, C., da Fonseca, V. P., & Soares, A. (2022). PTRAIL—A python package for parallel trajectory data preprocessing. SoftwareX, 19, 101176.
 - Hiscocks, S., Barr, J., Perree, N., Wright, J., Pritchett, H., Rosoman, O., ... & Oakes, B. (2023). Stone Soup: No longer just an appetiser. In 2023 26th International Conference on Information Fusion (FUSION) (pp. 1-8). IEEE.
