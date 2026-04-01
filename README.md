@@ -17,11 +17,11 @@ A collection of open source projects in the upcoming field of **movement data sc
 - [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility): Mobility analysis in Python. (first GH commit: 2019-04-28) [Pappalardo et al. 2019]
 - [MovinPy](https://github.com/DataStories-UniPi/MovinPy): Process and analyze mobility data. (first GH commit: 2020-07-23)
 - [ST-Visions](https://github.com/DataStories-UniPi/ST-Visions): A Python-based library for interactive spatio-temporal data visualization. (first GH commit: 2020-07-26)
-- [HuMobi](https://github.com/SmolakK/HuMobi): a library for human mobility analyses implemented in Python. (first GH commit: 2021-06-02) [Smolak et al. 2021]
 - [PTRAIL](https://github.com/YakshHaranwala/PTRAIL): parallel computation library for Mobility Data Preprocessing and feature generation. (first GH commit: 2021-05-31) [Haidri et al. 2022]
-- [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17) [Yu & Yuan 2022]
+- [HuMobi](https://github.com/SmolakK/HuMobi): a library for human mobility analyses implemented in Python. (first GH commit: 2021-06-02) [Smolak et al. 2021]
 - [Mobilkit](https://github.com/mindearth/mobilkit): A Python Toolkit for Urban Resilience and Disaster Risk Management Analytics using High Frequency Human Mobility Data. (first GH commit: 2021-07-25) [Ubaldi et al. 2024]
-- [HoWDe](https://github.com/LLucchini/HoWDe): A package for detecting home and work locations from individual timestamped sequences of stop locations. (first GH commit: 2025-02-09) [De Sojo et al. 2025]
+- [TransBigData](https://github.com/ni1o1/transbigdata): transportation spatio-temporal big data processing, analysis and visualization. (first GH commit: 2021-10-17) [Yu & Yuan 2022]
+- [HoWDe](https://github.com/LLucchini/HoWDe): A Python (and PySpark) package for detecting home and work locations from individual timestamped sequences of stop locations. (first GH commit: 2025-02-09) [De Sojo et al. 2025]
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=movingpandas/movingpandas,scikit-mobility/scikit-mobility,InsightLab/PyMove,traja-team/traja,mie-lab/trackintel,MobilityDB/MobilityDB,ni1o1/transbigdata,xoolive/traffic&type=Date)](https://star-history.com/#movingpandas/movingpandas&scikit-mobility/scikit-mobility&InsightLab/PyMove&traja-team/traja&mie-lab/trackintel&MobilityDB/MobilityDB&ni1o1/transbigdata&xoolive/traffic&Date)
